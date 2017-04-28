@@ -1,0 +1,12 @@
+R 1 X
+R 3 Z
+W 3 Z
+R 2 Y
+R 1 Y
+W 2 Y
+R 3 Y
+W 3 X
+W 2 Z
+C 1
+C 2
+C 3

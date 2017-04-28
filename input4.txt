@@ -1,0 +1,10 @@
+R 1 A
+R 1 B
+R 2 A
+R 4 F
+R 3 A
+W 1 A
+C 1
+C 2
+C 3
+C 4

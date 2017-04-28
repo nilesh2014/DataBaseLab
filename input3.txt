@@ -1,0 +1,11 @@
+R 1 A
+R 1 B
+R 2 A
+W 1 B
+R 2 B
+W 3 A
+W 1 C
+C 1
+W 3 C
+C 3
+C 2
