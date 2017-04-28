@@ -1,2 +1,2 @@
 # DataBaseLab
-Check for Serializability, cascaded rollbacks and recoverability  
+Given a concurrent schedule check if it is serializable, cascaded rollback free and recoverable.  
